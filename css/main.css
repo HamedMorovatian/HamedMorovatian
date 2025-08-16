@@ -8,6 +8,12 @@ body {
   font-family: "Merriweather", "Helvetica Neue", Arial, sans-serif;
 }
 
+.img-portfolio
+{
+    width: 500px;
+    height: 300px; 
+}
+
 hr {
   border-color: #F05F40;
   border-width: 3px;
